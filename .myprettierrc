@@ -1,0 +1,20 @@
+{
+  "emotionStyledOrder": {"Custom": ["flexDirection", "boxSizing"], "Tmp": ["AAA"], "BoxModel": ["maxWidth", "width", "aaa"]},
+  "emotionStyledOrderSortMethod": "alpha",
+  "emotionStyledOrderCaseInsensitive": true,
+
+  "emotionStyledOrderUseDefaultCategory": true,
+  "emotionStyledOrderDefaultCategoryPlacement": "prepend",
+  "emotionStyledOrderDefaultCategoryReplace": true,
+  "emotionStyledOrderDefaultCategoryStyleAdd": "none",
+  "emotionStyledOrderDefaultCategoryStyleReplace": "none",
+  "emotionStyledOrderCategoryText": {},
+  "emotionStyledOrderCategoryTextComment": true,
+  "emotionStyledOrderCategorySeperation": true,
+
+  "emotionStyledOrderNested": [],
+  "emotionStyledOrderNestedSortMethod": "none",
+  "emotionStyledOrderNestedIndexSortMethod": "ascend",
+  "emotionStyledOrderNestedCaseInsensitive": true,
+  "emotionStyledOrderNestedSeperation": true
+}

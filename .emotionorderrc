@@ -1,0 +1,14 @@
+{
+  "Category": {
+    "My": {
+      "style": [
+        "width",
+        "gap",
+        "flex",
+        "height"
+      ],
+      "text": "My Styles"
+    }
+  },
+  "Nested": ["media"]
+}

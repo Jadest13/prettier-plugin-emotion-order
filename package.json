@@ -1,6 +1,6 @@
 {
   "name": "prettier-plugin-emotion-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A prettier plugins to order emotion styled component",
   "main": "lib/src/index.js",
   "types": "types/index.d.ts",
